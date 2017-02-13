@@ -18,7 +18,7 @@
 package org.digitalcampus.oppia.application;
 
 
-import org.digitalcampus.mobile.learning.BuildConfig;
+import ngo.lal.oppia.BuildConfig;
 import ngo.lal.oppia.R;
 import org.digitalcampus.oppia.activity.PrefsActivity;
 import org.digitalcampus.oppia.task.SubmitQuizAttemptsTask;
@@ -39,7 +39,7 @@ public class MobileLearning extends Application {
 
 	public static final String TAG = MobileLearning.class.getSimpleName();
 	
-	public static final int APP_LOGO = R.drawable.dc_logo;
+	public static final int APP_LOGO = R.drawable.tabshoura_icon;
 	
 	public static final String COURSE_XML = "module.xml";
 	public static final String COURSE_SCHEDULE_XML = "schedule.xml";
