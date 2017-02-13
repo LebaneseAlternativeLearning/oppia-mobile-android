@@ -8,7 +8,7 @@ import android.content.pm.ResolveInfo;
 import android.net.Uri;
 import android.widget.Toast;
 
-import org.digitalcampus.mobile.learning.R;
+import ngo.lal.oppia.R;
 
 import java.util.List;
 

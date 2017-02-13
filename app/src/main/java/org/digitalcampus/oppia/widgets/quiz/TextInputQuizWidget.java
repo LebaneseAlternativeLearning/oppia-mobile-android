@@ -22,7 +22,7 @@ import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 
-import org.digitalcampus.mobile.learning.R;
+import ngo.lal.oppia.R;
 
 
 public abstract class TextInputQuizWidget extends QuestionWidget {

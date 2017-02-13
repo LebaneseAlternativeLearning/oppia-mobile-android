@@ -19,7 +19,7 @@ package org.digitalcampus.oppia.fragments;
 
 import java.util.Locale;
 
-import org.digitalcampus.mobile.learning.R;
+import ngo.lal.oppia.R;
 import org.digitalcampus.oppia.activity.PrefsActivity;
 import org.digitalcampus.oppia.utils.storage.Storage;
 

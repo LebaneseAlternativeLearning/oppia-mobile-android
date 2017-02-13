@@ -17,7 +17,7 @@
 
 package org.digitalcampus.oppia.utils.ui;
 
-import org.digitalcampus.mobile.learning.R;
+import ngo.lal.oppia.R;
 import org.digitalcampus.oppia.application.MobileLearning;
 import org.digitalcampus.oppia.model.Course;
 
