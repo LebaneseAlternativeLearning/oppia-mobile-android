@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_logo_alt">Digital Campus Logo</string>
+    <string name="app_logo_alt">Tabshoura Oppia Logo</string>
 
 
     <!-- Dont need to define gcm values here anymore, as they are defined in google-services.json
@@ -29,11 +29,11 @@
     <string name="menu_sort_by_filename">Sort by filename</string>
     <string name="menu_select_all">Select all</string>
 
-    <string name="service_tracker">OppiaMobile Tracker Service</string>
+    <string name="service_tracker">Tabshoura Oppia Tracker Service</string>
 
-    <string name="fragment_welcome_title">Welcome to OppiaMobile</string>
-    <string name="fragment_welcome_desc">OppiaMobile is a mobile learning platform for delivering learning content, video and quizzes.\n\n\'Oppia\' means \'to learn\' in Finnish</string>
-    <string name="fragment_welcome_login_info">To get started with OppiaMobile, you will need to register or login.</string>
+    <string name="fragment_welcome_title">Welcome to Tabshoura Oppia</string>
+    <string name="fragment_welcome_desc">Tabshoura Oppia is a mobile learning platform for delivering learning content, video and quizzes.\n\n\'Oppia\' means \'to learn\' in Finnish</string>
+    <string name="fragment_welcome_login_info">To get started with Tabshoura Oppia, you will need to register or login.</string>
     <string name="fragment_welcome_privacy">We take your privacy seriously, <a href="http://digital-campus.org/privacy/">find out more about Digital Campus\'s privacy policy</a></string>
 
     <string name="tab_title_about">About</string>
