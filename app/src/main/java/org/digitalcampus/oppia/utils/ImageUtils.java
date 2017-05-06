@@ -25,7 +25,7 @@ import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 
-import org.digitalcampus.mobile.learning.R;
+import ngo.lal.oppia.R;
 
 public class ImageUtils {
 
