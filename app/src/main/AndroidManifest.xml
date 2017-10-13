@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
-          package="ngo.lal.oppia"
-    android:versionCode="62"
-    android:versionName="@string/version_name">
+          package="ngo.lal.oppia">
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -178,20 +176,6 @@
             android:name="org.digitalcampus.oppia.service.GCMRegistrationService"
             android:exported="false">
         </service>
-
-        <!-- Device Administration API -->
-        <receiver
-            android:name="org.digitalcampus.oppia.application.AdminReceiver"
-            android:permission="android.permission.BIND_DEVICE_ADMIN">
-            <intent-filter>
-                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED"/>
-                <action android:name="android.app.action.ACTION_DEVICE_ADMIN_DISABLED"/>
-            </intent-filter>
-
-            <meta-data
-                android:name="android.app.device_admin"
-                android:resource="@xml/admin_policies"/>
-        </receiver>
 
         <provider
             android:name="android.support.v4.content.FileProvider"
