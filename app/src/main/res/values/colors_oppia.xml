@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   	<color name="pressed_om">#CC9ACA3C</color>
-    <color name="highlight_light">#74B042</color>
-    <color name="highlight_mid">#9aca3c</color>
-    <color name="highlight_dark">#495525</color>
-    <color name="highlight_shadow">#597725</color>
-    <color name="highlight_secondary">#689e3a</color>
+   	<color name="pressed_om">#fd6cbe</color>
+    <color name="highlight_light">#f8259c</color>  <!-- original 74B042 -->
+    <color name="highlight_mid">#C60070</color>     <!-- original 9aca3c -->
+    <color name="highlight_dark">#770144</color>  <!-- original 495525 -->
+    <color name="highlight_shadow">#770144</color>
+    <color name="highlight_secondary">#C60070</color>
 </resources>
